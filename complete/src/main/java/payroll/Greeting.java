@@ -1,4 +1,4 @@
-package com.example.restservice;
+package payroll;
 
 public class Greeting {
 
